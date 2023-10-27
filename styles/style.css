@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 2vh;
+
+  --main-bg-color: #011627;
+  --sec-bg-color: #2ec4b6;
+  --text-color: #fdfffc;
+  --text-color-special: #e71d36;
+
+  background-color: var(--main-bg-color);
+}
+
+.navbar {
+  display: flex;
+  position: fixed;
+  background-color: var(--text-color-special);
+  width: 50%;
+  justify-content: center;
+  margin-left: 25%;
+  padding: 25px;
+  border-radius: 0px 0px 24px 24px;
+}
+
+.titleCard {
+  width: 100vw;
+  height: 100vh;
+}
