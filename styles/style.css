@@ -16,12 +16,20 @@ body {
 .navbar {
   display: flex;
   position: fixed;
-  background-color: var(--text-color-special);
-  width: 50%;
+  width: 100%;
   justify-content: center;
-  margin-left: 25%;
+}
+
+.navbar-center {
+  color: var(--text-color);
   padding: 25px;
+  width: 50%;
   border-radius: 0px 0px 24px 24px;
+  background-color: var(--main-bg-color);
+}
+
+.navbar-side {
+  width: 25%;
 }
 
 .titleCard {
