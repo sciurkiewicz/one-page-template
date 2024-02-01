@@ -1,21 +1,4 @@
 <script setup lang="ts">
-  import { ref } from 'vue'
-
-const progress = ref(null)
-
-window.addEventListener('DOMContentLoaded', function() {
-  progress.value = document.getElementById('progress')
-  if (progress.value) {
-	window.addEventListener('scroll', function() {
-	  const windowHeight = window.innerHeight
-	  const fullHeight = document.documentElement.scrollHeight
-	  const scrollTop = window.pageYOffset || document.documentElement.scrollTop
-	  const scrollPercent = (scrollTop / (fullHeight - windowHeight)) * 100
-
-	  progress.value.style.setProperty('--scroll', scrollPercent + '%')
-	})
-  }
-})
 
 function openMailApplication() {
   window.location.href = 'mailto:email@example.com'
