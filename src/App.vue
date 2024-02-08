@@ -226,15 +226,16 @@ I am passionate about crafting solid and scalable products that prioritize excep
               <div class="order-1 w-5/12"></div>
 
               <div class="order-1  w-5/12 px-1 py-4">
-                <p class="mb-3 text-base text-yellow-300">React</p>
-                <h4 class="mb-3 font-bold  text-lg md:text-2xl text-left">Scribe</h4>
+                <p class="mb-3 text-base text-yellow-300">JQuery + SCSS</p>
+                <h4 class="mb-3 font-bold  text-lg md:text-2xl text-left">Ultima Ratio</h4>
                 <p class="text-sm md:text-base leading-snug text-gray-50 text-opacity-100 mb-4">
-					"Scribe" is an application for creating lightning-fast notes.
+					Platform for creating, signing, and enforcing agreements by counterparties.
                 </p>
-				<a class="text-yellow-300" href="https://github.com/sciurkiewicz/scribe">github.com/sciurkiewicz/scribe</a>
+				<a class="text-yellow-300" href="https://ultimaratio.pl/">ultimaratio.pl</a><br>
+				<a class="text-yellow-300" href="https://system.ultimaratio.pl/login?ref=ecommerce">system.ultimaratio.pl</a>
               </div>
             </div>
-			<div class="mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline">
+			<!-- <div class="mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline">
               <div class="order-1 w-5/12"></div>
               <div class="order-1 w-5/12 px-1 py-4 text-right">
                 <p class="mb-3 text-base text-yellow-300">Vue3 + VueFire</p>
@@ -244,9 +245,9 @@ I am passionate about crafting solid and scalable products that prioritize excep
                 </p>
 				<a class="text-yellow-300" href="https://github.com/sciurkiewicz/crystal-ship">github.com/sciurkiewicz/crystal-ship</a>
               </div>
-            </div>
+            </div> -->
 
-            <div class="mb-8 flex justify-between items-center w-full right-timeline">
+            <!-- <div class="mb-8 flex justify-between items-center w-full right-timeline">
               <div class="order-1 w-5/12"></div>
 
               <div class="order-1  w-5/12 px-1 py-4">
@@ -257,7 +258,7 @@ I am passionate about crafting solid and scalable products that prioritize excep
                 </p>
 				<a class="text-yellow-300" href="https://github.com/sciurkiewicz/bushcraft-app">github.com/sciurkiewicz/bushcraft-app</a>
               </div>
-            </div>
+            </div> -->
           </div>
           <img class="mx-auto -mt-36 md:-mt-36" src="https://user-images.githubusercontent.com/54521023/116968861-ef21a000-acd2-11eb-95ac-a34b5b490265.png" />
         </div>
