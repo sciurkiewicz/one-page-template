@@ -113,7 +113,7 @@ I am passionate about crafting solid and scalable products that prioritize excep
 				src="./assets/rwd.svg"
 				alt="user-avatar">
 		</div>
-		<p class="text-lg mt-4 md:mt-8 text-center"><b>RWD</b></p>
+		<p class="text-lg mt-4 md:mt-8 text-center"><b>Responsive Web Design</b></p>
 			<p class="text-yellow-300 text-center"></p>
 	</div>
 
